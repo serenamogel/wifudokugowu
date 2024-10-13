@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wifudokugowu.pages.dev/sitemap.xml
